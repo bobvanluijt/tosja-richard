@@ -5,7 +5,7 @@ layout: base-EN
 ![Tosja and Richard](/images/tr.jpg "Tosja and Richard")
 
 - [Save the Date](#save-the-date)
-- [Program](#program)
+- [Programme](#programme)
 - [About the Ceremony](#about-the-ceremony)
 - [About the  Reception](#about-the-reception)
 - [RSVP](#rsvp)
@@ -14,7 +14,7 @@ layout: base-EN
 
 May 11th 2019
 
-# Program
+# Programme
 
 | Time          | Location        | Activity |
 | ------------- | --------------- | -------- |
