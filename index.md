@@ -9,7 +9,7 @@ layout: base-EN
 - [About the  Reception](#about-the-reception)
 - [RSVP](#rsvp)
 
-This website contains all the information for our guest, we are looking forward to welcome you!
+Save the date | 11th May 2019 | Abcoude
 
 # Program
 
@@ -22,16 +22,15 @@ This website contains all the information for our guest, we are looking forward 
 
 # About the Ceremony
 
-The ceremony will take place in the the beautiful town hall of Weesp.
+The ceremony takes place at the the beautiful town hall of Weesp.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9758.096017458554!2d5.0428312!3d52.3064934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xefe4bf795ddbf05!2sGemeente+Weesp!5e0!3m2!1sen!2snl!4v1541433542185" width="100%" height="292" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 # About the Reception
 
-The beautifully renovated station building is characterised by peace, luxury and comfort, and right outside there is lots to do and see nearby.
+Under the smoke of Amsterdam, on the outskirts of the picturesque Abcoude, is the Boutique Hotel – De Witte Dame (The White Lady). The beautifully renovated station building is characterised by peace, luxury and comfort.
 
-De Witte Dame has ten uniquely decorated, spacious rooms, all with a kitchenette, bathroom and toilet. At the moment, we are working hard on the construction of detached, luxurious small dyke cottages which we will start using in 2017 as ‘detached villa rooms’.
 
 ### Address
 
@@ -47,6 +46,6 @@ De Witte Dame has ten uniquely decorated, spacious rooms, all with a kitchenette
 
 # RSVP
 
-Please let us know if you are able to join our wedding by filling in this RSVP.
+Please let us know if you are able to attend to attend.
 
 <!-- EMAIL FORM WILL SHOW UP HERE -->
