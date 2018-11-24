@@ -32,7 +32,7 @@ The ceremony takes place at the the beautiful town hall of Weesp.
 
 # About the Reception
 
-Under the smoke of Amsterdam, on the outskirts of the picturesque Abcoude, is the Boutique Hotel – De Witte Dame (The White Lady). The beautifully renovated station building is characterised by peace, luxury and comfort.
+Under the smoke of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). The beautifully renovated station building is characterised by peaceful luxury and comfort.
 
 
 ### Address
