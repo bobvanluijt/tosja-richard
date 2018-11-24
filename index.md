@@ -12,7 +12,7 @@ layout: base-EN
 
 # Save the date 
 
-11th May 2019, Abcoude
+May 11th 2019
 
 # Program
 
