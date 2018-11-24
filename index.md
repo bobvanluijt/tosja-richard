@@ -9,7 +9,8 @@ layout: base-EN
 - [About the  Reception](#about-the-reception)
 - [RSVP](#rsvp)
 
-Save the date | 11th May 2019 | Abcoude
+Save the date 
+11th May 2019, Abcoude
 
 # Program
 
