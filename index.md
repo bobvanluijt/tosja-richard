@@ -49,6 +49,6 @@ Under the smoke of Amsterdam, on the outskirts of the picturesque Abcoude, is th
 
 # RSVP
 
-Please let us know if you are able to attend to attend.
+Please let us know if you are able to attend.
 
 <!-- EMAIL FORM WILL SHOW UP HERE -->
