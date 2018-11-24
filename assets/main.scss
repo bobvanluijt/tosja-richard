@@ -106,6 +106,20 @@ footer {
 	padding: 0 5px;
 }
 
+table {
+	font-size: 0.8rem;
+    width: 100%;
+    text-align: left;
+}
+
+img {
+	width: 96%
+}
+
+.RSVP {
+	text-align: center;
+}
+
 /*** media queries ***/
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
@@ -116,12 +130,17 @@ footer {
 	}
 }
 
-/* All other devices (768px and up) */
+/* All other devices (768px upto 948px) */
 @media (min-width: 768px) {
+
+	.RSVP {
+		text-align: right;
+	}
+
 	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 680px;
+		width: 100%;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
@@ -141,6 +160,35 @@ footer {
 	main {
 		width: 46%;
 		margin-left: 54%;
+		padding: 0;
+	}
+}
+
+/* All other devices (948px and up) */
+@media (min-width: 948px) {
+	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
+	to accomodate both the header column and the content column */
+	.wrapper {
+		width: 900px;
+	}
+
+	/* the header column stays left and has a dynamic width with all contents
+	aligned right */
+	header {
+		float: left;
+		width: 48%;
+		text-align: right;
+	}
+
+	.author-container h1,
+	.logo-container,
+	.tagline-container p {
+		text-align: right;
+	}
+
+	main {
+		width: 48%;
+		margin-left: 52%;
 		padding: 0;
 	}
 }
