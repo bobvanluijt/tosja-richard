@@ -1,4 +1,5 @@
 ---
+title: thanks
 layout: base-EN
 ---
 

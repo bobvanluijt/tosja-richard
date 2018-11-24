@@ -40,7 +40,11 @@
   
     {{ content }}
 
+    {% if page.title != "thanks" %}
+
     {% include mailchimp-en.html %}
+
+    {% endif %}
   
   </div>
   
