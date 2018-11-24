@@ -10,7 +10,7 @@
   {% if site.compass.logo %}
   
   <div class="logo-container">
-    <a class="logo" href="{{ page.baseurl }}" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
+    <a class="logo" href="/" style="background-image: url('{{ site.baseurl }}{{ site.compass.logo }}')"></a>
   </div>
   
   {% endif %}
@@ -40,7 +40,7 @@
   
     {{ content }}
 
-    {% if page.title != "thanks" %}
+    {% if page.title != "thanks" || page.title != "404" %}
 
     {% include mailchimp-en.html %}
 
