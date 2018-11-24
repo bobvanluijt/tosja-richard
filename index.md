@@ -4,12 +4,14 @@ layout: base-EN
 
 ![Tosja and Richard](/images/tr.jpg "Tosja and Richard")
 
+- [Save the Date](#save-the-date)
 - [Program](#program)
 - [About the Ceremony](#about-the-ceremony)
 - [About the  Reception](#about-the-reception)
 - [RSVP](#rsvp)
 
-Save the date 
+# Save the date 
+
 11th May 2019, Abcoude
 
 # Program
