@@ -22,7 +22,7 @@ layout: base-NL
 | Tijd          | Plaats             | Programmaonderdeel |
 | ------------- | ------------------ | -------- |
 | 11:00 - 12:00 | Gemeentehuis Weesp | Huwelijksceremonie |
-| 13:00 - 17:00 | hotel DWD          | Receptie & Lunch    |
+| 13:00 - 17:00 | hotel DWD          | Receptie & lunch    |
 | 17:00 - 00:30 |                    | Diner (besloten)  |
 
 # Huwelijksceremonie
@@ -41,6 +41,7 @@ Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutiq
 | Stationsplein 3 |
 | 1391 GS Abcoude |
 | [Meer informatie over de locatie](https://www.hoteldwd.nl/) |
+| [Video-impressie van de locatie](https://www.youtube.com/watch?v=VY-d1Dv2fbo){:target="_blank"} |
 
 <iframe height="532" width="350" frameborder="0" id="reisplanner-widget" src="//www.ns.nl/nswidget/reisplanner?code=dDpUb3NqYSAmIFJpY2hhcmQncyBXZWRkaW5nLHRzOjAsYnRhcDowLGFzOlN0YXRpb25zcGxlaW4s YXc6QWJjb3VkZSxibjpCb3V0aXF1ZSBIb3RlbCBkZSBXaXR0ZSBEYW1lLGJhOjEsc2g6MyxzYWs6 I2ZmZmZmZixzYXRrOiNmZmM3MzMsc2I6MzUwLHNsazojMDAxNzY2LHNyOjEsc3JrOiNlNWU1ZTUs c3g6MTMsc3hrOiMzODM4Mzgsc3Q6MTUsc3RrOiMwMDE3NjYsejpTVlZMTW5WeU1saG9TVFZRUmtw aFRVRT0NCiw= "></iframe>
 
