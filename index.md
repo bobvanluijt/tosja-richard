@@ -5,16 +5,16 @@ layout: base-EN
 ![Tosja and Richard](/images/tr.jpg "Tosja and Richard")
 
 - [Save the Date](#save-the-date)
-- [Program](#program)
+- [Programme](#programme)
 - [About the Ceremony](#about-the-ceremony)
 - [About the  Reception](#about-the-reception)
 - [RSVP](#rsvp)
 
 # Save the date 
 
-11th May 2019, Abcoude
+May 11th 2019
 
-# Program
+# Programme
 
 | Time          | Location        | Activity |
 | ------------- | --------------- | -------- |
@@ -32,7 +32,7 @@ The ceremony takes place at the the beautiful town hall of Weesp.
 
 # About the Reception
 
-Under the smoke of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). The beautifully renovated station building is characterised by peaceful luxury and comfort.
+Within easy reach of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). The beautifully renovated station building is characterised by peaceful luxury and comfort.
 
 
 ### Address
