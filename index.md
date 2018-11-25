@@ -23,7 +23,7 @@ layout: base-EN
 | 11:00 - 12:00 | Town Hall Weesp | Ceremony |
 | 12:15 - 13:00 |                 |          |
 | 13:00 - 17:00 | hotel DWD       | Reception & Lunch    |
-| 17:00 - 00:30 | hotel DWD       | Dinner   |
+| 17:00 - 00:30 |                 | Dinner (invitation only)  |
 
 # About the wedding ceremony
 
@@ -50,4 +50,4 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abco
 
 # Contact the masters of ceremonies
 
-Still have questions? Click [here](mailto:wedding@tosja-richard.com) to get in touch with the masters of ceremonies.
+Still have questions? Click [here](mailto:wedding@tosja-richard.com) to get in touch with Renate & Bob, the masters of ceremonies.
