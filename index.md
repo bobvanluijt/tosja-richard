@@ -13,7 +13,7 @@ layout: base-EN
 
 May 11th 2019
 
-<button id="open-popup">Click here to RSVP for our wedding</button>
+<button onclick="showMailingPopUp(); return false;">Click here to RSVP for our wedding</button>
 
 # Programme
 
