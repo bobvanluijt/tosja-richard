@@ -34,7 +34,7 @@ The ceremony takes place at the the beautiful town hall of Weesp.
 
 # About the reception
 
-Within easy reach of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). Join the bride and groom here for a walking lunch and the cake cutting ceremony. 
+Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). Join the bride and groom here for a walking lunch and the cake cutting ceremony. 
 
 
 ### Address
