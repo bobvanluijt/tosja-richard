@@ -8,6 +8,7 @@ layout: base-EN
 - [Programme](#programme)
 - [About the wedding ceremony](#about-the-ceremony)
 - [About the reception](#about-the-reception)
+- [Gift Ideas](#gift-ideas)
 - [Contact the masters of ceremonies](#contact-the-masters-of-ceremonies)
 
 # Save the date & RSVP
@@ -47,6 +48,12 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abco
 ### Plan your trip with public transport
 
 <iframe height="662" width="96%" frameborder="0" id="reisplanner-widget" src="//www.ns.nl/nswidget/reisplanner?code=dDpUb3NqYSAmIFJpY2hhcmQncyBXZWRkaW5nLHRzOjEsYnRhcDoxLGFzOlN0YXRpb25zcGxlaW4s YXc6QWJjb3VkZSxibjpCb3V0aXF1ZSBIb3RlbCBkZSBXaXR0ZSBEYW1lLGJhOjEsc2g6MyxzYWs6 I2ZmZmZmZixzYXRrOiNmZmM3MzMsc2I6NDIwLHNsazojMDAxNzY2LHNyOjEsc3JrOiNlNWU1ZTUs c3g6MTMsc3hrOiMzODM4Mzgsc3Q6MTUsc3RrOiMwMDE3NjYsejpTVlZMTW5WeU1saG9TVFZRUmtw aFRVRT0NCiw= "></iframe>
+
+# Gift Ideas
+
+The greatest gift is for you to accompany us on our big day. But if you insist on a gift, we would be grateful if you make a donation to Doctors Without Borders:
+
+[Doctors Without Borders](https://donate.doctorswithoutborders.org/onetime-b.cfm?utm_expid=.ACVuR8QfQoWRpTdJzwfNnQ.1&utm_referrer=https%3A%2F%2Fwww.doctorswithoutborders.org%2F)
 
 # Contact the masters of ceremonies
 
