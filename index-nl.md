@@ -9,7 +9,7 @@ layout: base-NL
 - [Over de huwelijksceremonie](#over-de-huwelijksceremonie)
 - [Over de receptie](#over-de-receptie)
 - [Cadeautip](#cadeautip)
-- [Neem contact op met de ceremoniemeesters](#neem-contact-op-met-de-ceremoniemeesters)
+- [Contact ceremoniemeesters](#neem-contact-op-met-de-ceremoniemeesters)
 
 # Datum & RSVP
 
@@ -51,6 +51,6 @@ Het mooiste geschenk is je aanwezigheid op onze grote dag. Maar als je echt graa
 [Artsen Zonder Grenzen](https://form.artsenzondergrenzen.nl/doe-een-gift?gclid=EAIaIQobChMIm77c9dTv3gIVUOh3Ch3ofwBvEAAYASAAEgJGfPD_BwE)
 
 
-# Neem contact op met de ceremoniemeesters
+# Contact ceremoniemeesters
 
-Heeft u vragen die niet op deze website worden beantwoord? klik [hier](mailto:wedding@tosja-richard.com) om een e-mail te sturen naar de ceremoniemeesters Renate & Bob.
+Heeft u vragen die niet op deze website worden beantwoord? klik [hier](mailto:wedding@tosja-richard.com) om contact op te nemen met de ceremoniemeesters, Renate & Bob.
