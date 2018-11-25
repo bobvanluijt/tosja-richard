@@ -26,10 +26,7 @@ layout: base-EN
 
 # About the wedding ceremony
 
-The ceremony takes place at the the beautiful town hall of Weesp.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9758.096017458554!2d5.0428312!3d52.3064934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xefe4bf795ddbf05!2sGemeente+Weesp!5e0!3m2!1sen!2snl!4v1541433542185" width="100%" height="292" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+The ceremony takes place in the company of family and close friends at the the beautiful town hall of Weesp.
 
 # About the reception
 
