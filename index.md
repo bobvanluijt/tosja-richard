@@ -7,13 +7,14 @@ layout: base-EN
 - [Save the Date](#save-the-date--rsvp)
 - [Programme](#programme)
 - [About the Ceremony](#about-the-ceremony)
-- [About the  Reception](#about-the-reception)
+- [About the Reception](#about-the-reception)
+- [Contact the Masters of Ceremonies](#contact-the-masters-of-ceremonies)
 
 # Save the date & RSVP
 
 May 11th 2019
 
-<button onclick="showMailingPopUp(); return false;">Click here to RSVP for our wedding</button>
+<button onclick="showMailingPopUp(); return false;">Click here to RSVP</button>
 
 # Programme
 
@@ -33,7 +34,7 @@ The ceremony takes place at the the beautiful town hall of Weesp.
 
 # About the Reception
 
-Within easy reach of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). This beautifully renovated station building is a real haven of peace, comfort and luxury for its guests.
+Within easy reach of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). Join us here for a walking lunch and the cake cutting ceremony. 
 
 
 ### Address
@@ -46,3 +47,7 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque Abcoude, lie
 | [More information about the location](https://www.hoteldwd.nl/en/) |
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19530.71773399236!2d4.966225277253436!3d52.27353425844868!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcf7673dbed8398e3!2sBoutique+Hotel+De+Witte+Dame!5e0!3m2!1sen!2snl!4v1541432986283" width="100%" height="292" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+# Contact the Masters of Ceremonies
+
+Still have questions? Click [here](mailto:wedding@tosja-richard.com) to get in touch with the masters of ceremonies.
