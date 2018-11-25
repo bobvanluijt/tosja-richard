@@ -21,7 +21,6 @@ layout: base-EN
 | Time          | Location        | Activity |
 | ------------- | --------------- | -------- |
 | 11:00 - 12:00 | Town Hall Weesp | Ceremony |
-| 12:15 - 13:00 |                 |          |
 | 13:00 - 17:00 | hotel DWD       | Reception & Lunch    |
 | 17:00 - 00:30 |                 | Dinner (invitation only)  |
 
