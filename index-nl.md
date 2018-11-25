@@ -34,7 +34,7 @@ De huwelijksceremonie vindt plaats in het gemeentehuis van Weesp.
 
 # Over de receptie
 
-Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutique Hotel 'De Witte Dame'. Geniet hier samen met het bruidspaar van een walking lunch.  
+Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutique Hotel 'De Witte Dame'. Geniet hier samen met het bruidspaar van een walking lunch en het aansnijden van de bruidstaart.  
 
 
 ### Adres
