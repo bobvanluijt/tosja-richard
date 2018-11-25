@@ -12,7 +12,7 @@ layout: base-NL
 
 # Datum & RSVP
 
-11 mei 2019
+**11 mei 2019** ([voeg toe aan je kalender](/Tosja_and_Richards_Wedding.ics)).
 
 <button onclick="showMailingPopUp(); return false;">Laat via deze link weten of je komt</button>
 

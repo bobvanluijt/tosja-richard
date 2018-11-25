@@ -12,7 +12,7 @@ layout: base-EN
 
 # Save the date & RSVP
 
-May 11th 2019
+**May 11th 2019** ([download calendar invite](/Tosja_and_Richards_Wedding.ics)).
 
 <button onclick="showMailingPopUp(); return false;">Click here to RSVP</button>
 
