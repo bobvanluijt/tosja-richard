@@ -2,6 +2,7 @@
 <script type="text/javascript">
 function showMailingPopUp() {
 	window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"53a27387f37f1d666940b7728","lid":"cf101d2cff","uniqueMethods":true}) })
+	console.log("load popup");
 }
 document.getElementById("open-popup").onclick = function() {showMailingPopUp()};
 </script>
