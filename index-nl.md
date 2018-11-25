@@ -47,9 +47,7 @@ Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutiq
 
 # Cadeautip
 
-Het mooiste geschenk is je aanwezigheid op de grote dag. Maar als je echt graag iets wilt geven, dan stelt het bruidspaar een donatie aan Artsen Zonder Grenzen zeer op prijs:
-
-[Artsen Zonder Grenzen](https://form.artsenzondergrenzen.nl/doe-een-gift?gclid=EAIaIQobChMIm77c9dTv3gIVUOh3Ch3ofwBvEAAYASAAEgJGfPD_BwE)
+Het mooiste geschenk is je aanwezigheid op de grote dag. Maar als je echt graag iets wilt geven, dan stelt het bruidspaar een donatie aan [Artsen Zonder Grenzen](https://form.artsenzondergrenzen.nl/doe-een-gift?gclid=EAIaIQobChMIm77c9dTv3gIVUOh3Ch3ofwBvEAAYASAAEgJGfPD_BwE) zeer op prijs.
 
 
 # Contact ceremoniemeesters
