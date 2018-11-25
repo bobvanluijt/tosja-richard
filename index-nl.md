@@ -6,10 +6,10 @@ layout: base-NL
 
 - [Datum & RSVP](#datum-en--rsvp)
 - [Programma](#programma)
-- [Over de huwelijksceremonie](#over-de-huwelijksceremonie)
-- [Over de receptie](#over-de-receptie)
+- [Huwelijksceremonie](#huwelijksceremonie)
+- [Receptie](#receptie)
 - [Cadeautip](#cadeautip)
-- [Contact ceremoniemeesters](#neem-contact-op-met-de-ceremoniemeesters)
+- [Contact ceremoniemeesters](#contact-ceremoniemeesters)
 
 # Datum & RSVP
 
@@ -25,11 +25,11 @@ layout: base-NL
 | 13:00 - 17:00 | hotel DWD          | Receptie & Lunch    |
 | 17:00 - 00:30 |                    | Diner (besloten)  |
 
-# Over de huwelijksceremonie
+# Huwelijksceremonie
 
 De huwelijksceremonie vindt plaats in het bijzijn van familie en naasten in het gemeentehuis van Weesp.
 
-# Over de receptie
+# Receptie
 
 Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutique Hotel 'De Witte Dame'. Geniet hier samen met het bruidspaar van een walking lunch en het aansnijden van de bruidstaart.  
 
