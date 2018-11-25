@@ -4,15 +4,16 @@ layout: base-EN
 
 ![Tosja and Richard](/images/tr.jpg "Tosja and Richard")
 
-- [Save the Date](#save-the-date)
+- [Save the Date](#save-the-date--rsvp)
 - [Programme](#programme)
 - [About the Ceremony](#about-the-ceremony)
 - [About the  Reception](#about-the-reception)
-- [RSVP](#rsvp)
 
-# Save the date 
+# Save the date & RSVP
 
 May 11th 2019
+
+<button id="open-popup">Click here to RSVP for our wedding</button>
 
 # Programme
 
