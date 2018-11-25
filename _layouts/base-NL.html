@@ -16,8 +16,7 @@
           {% endif %}
   
           {% if site.compass.tagline %}
-          <div class="RSVP"><a href="/">English</a> - <a href="/index-nl/">Nederlands</a></div>
-          <div class="RSVP"><a href="mailto:wedding@tosja-richard.com">contact ceremoniemeesters</a></div>
+          <div class="RSVP"><a href="/">English</a> - Nederlands</div>
           {% endif %}
       </header>
       <main>
@@ -26,11 +25,7 @@
   
           {{ content }}
 
-          {% if page.title != "thanks" %}
-
-          {% include mailchimp-nl.html %}
-
-          {% endif %}
+          {% include mailchimp.html %}
   
         </div>
         {% endif %}
