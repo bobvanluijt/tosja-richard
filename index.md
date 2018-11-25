@@ -8,12 +8,12 @@ layout: base-EN
 - [Programme](#programme)
 - [Wedding ceremony](#wedding-ceremony)
 - [Reception](#reception)
-- [Gift Idea](#gift-idea)
+- [Gift idea](#gift-idea)
 - [Contact the masters of ceremonies](#contact-the-masters-of-ceremonies)
 
 # Save the date & RSVP
 
-**May 11th 2019** ([download calendar invite](/Tosja_and_Richards_Wedding.ics)).
+**May 11th, 2019** ([download calendar invite](/Tosja_and_Richards_Wedding.ics)).
 
 <button onclick="showMailingPopUp(); return false;">Click here to RSVP</button>
 
