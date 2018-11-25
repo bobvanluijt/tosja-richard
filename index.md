@@ -4,7 +4,7 @@ layout: base-EN
 
 ![Tosja and Richard](/images/tr.jpg "Tosja and Richard")
 
-- [Save the date](#save-the-date--rsvp)
+- [Save the date & RSVP](#save-the-date--rsvp)
 - [Programme](#programme)
 - [About the wedding ceremony](#about-the-ceremony)
 - [About the reception](#about-the-reception)
