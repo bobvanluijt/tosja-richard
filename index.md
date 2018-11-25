@@ -46,4 +46,4 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abco
 
 # Contact the masters of ceremonies
 
-Still have questions? Click [here](mailto:wedding@tosja-richard.com) to get in touch with Renate & Bob, the masters of ceremonies.
+Still have questions? Click [here](mailto:wedding@tosja-richard.com) to get in touch with the masters of ceremonies, Renate & Bob.
