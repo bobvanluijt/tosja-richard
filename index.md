@@ -8,12 +8,11 @@ layout: base-EN
 - [Programme](#programme)
 - [About the Ceremony](#about-the-ceremony)
 - [About the  Reception](#about-the-reception)
+- [RSVP](#rsvp)
 
 # Save the date 
 
 May 11th 2019
-
-<button id="open-popup">Click here to RSVP for our wedding</button>
 
 # Programme
 
@@ -33,7 +32,7 @@ The ceremony takes place at the the beautiful town hall of Weesp.
 
 # About the Reception
 
-Within easy reach of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). The beautifully renovated station building is characterised by peaceful luxury and comfort.
+Within easy reach of Amsterdam, on the outskirts of the picturesque Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). This beautifully renovated station building is a real haven of peace, comfort and luxury for its guests.
 
 
 ### Address
