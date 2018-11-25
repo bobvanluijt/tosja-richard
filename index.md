@@ -6,8 +6,8 @@ layout: base-EN
 
 - [Save the date & RSVP](#save-the-date--rsvp)
 - [Programme](#programme)
-- [About the wedding ceremony](#about-the-ceremony)
-- [About the reception](#about-the-reception)
+- [Wedding ceremony](#wedding-ceremony)
+- [Reception](#reception)
 - [Gift Idea](#gift-idea)
 - [Contact the masters of ceremonies](#contact-the-masters-of-ceremonies)
 
@@ -25,11 +25,11 @@ layout: base-EN
 | 13:00 - 17:00 | hotel DWD       | Reception & Lunch    |
 | 17:00 - 00:30 |                 | Dinner (invitation only)  |
 
-# About the wedding ceremony
+# Wedding ceremony
 
 The ceremony takes place in the company of family and close friends at the the beautiful town hall of Weesp.
 
-# About the reception
+# Reception
 
 Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). Join the bride and groom here for a walking lunch and the cake cutting ceremony. 
 
