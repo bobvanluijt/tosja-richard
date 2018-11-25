@@ -51,7 +51,7 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abco
 
 # Gift Idea
 
-The greatest gift is for you to accompany us on our big day. But if you insist on a gift, we would be grateful if you make a donation to Doctors Without Borders:
+The greatest gift is your presence on the big day. But if you insist on a gift, the bride and groom would be grateful if you make a donation to Doctors Without Borders:
 
 [Doctors Without Borders](https://donate.doctorswithoutborders.org/onetime-b.cfm?utm_expid=.ACVuR8QfQoWRpTdJzwfNnQ.1&utm_referrer=https%3A%2F%2Fwww.doctorswithoutborders.org%2F)
 
