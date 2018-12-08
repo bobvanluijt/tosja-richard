@@ -27,7 +27,7 @@ layout: base-EN
 
 # Wedding ceremony
 
-The ceremony takes place in the company of family and close friends at the the beautiful town hall of Weesp.
+The ceremony takes place in the company of family and close friends at the beautiful town hall of Weesp.
 
 # Reception
 
