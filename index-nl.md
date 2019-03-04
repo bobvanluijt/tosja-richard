@@ -21,8 +21,8 @@ layout: base-NL
 
 | Tijd          | Plaats             | Programmaonderdeel |
 | ------------- | ------------------ | -------- |
-| 11:00 - 12:00 | Gemeentehuis Weesp | Huwelijksceremonie |
-| 13:00 - 17:00 | hotel DWD          | Receptie & lunch    |
+| 11:00 - 12:00 | Gemeentehuis Weesp | Huwelijksceremonie (besloten) |
+| 12:30 - 17:00 | hotel DWD          | Receptie & lunch    |
 | 17:00 - 00:30 |                    | Diner (besloten)  |
 
 # Huwelijksceremonie
