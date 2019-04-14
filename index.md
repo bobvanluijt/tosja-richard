@@ -25,7 +25,7 @@ layout: base-EN
 | 12:30 - 17:00 | hotel DWD       | Reception & lunch    |
 | 17:00 - 00:30 |                 | Dinner (invitation only)  |
 
-[Where to park your car in Weesp](https://www.weesp.nl/inwoners/onderwerpen-a-z_42399/product/parkeren_877.html)
+[Where to park your car](https://www.weesp.nl/inwoners/onderwerpen-a-z_42399/product/parkeren_877.html)
 
 # Wedding ceremony
 
