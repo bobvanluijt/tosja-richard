@@ -48,7 +48,7 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abco
 ### How to get there
 [Directions](https://www.hoteldwd.nl/en/contact/){:target="_blank"}  
 
-[Walk from train station to venue](https://www.google.com/maps/dir/Abcoude,+1391+JN+Abcoude/Boutique+Hotel+De+Witte+Dame,+Stationsplein,+Abcoude/@52.2760939,4.9754859,16z/data=!4m14!4m13!1m5!1m1!1s0x47c60c963dffff1d:0xd03b887b870755c8!2m2!1d4.9771355!2d52.2788817!1m5!1m1!1s0x47c60cbf25087fb3:0xcf7673dbed8398e3!2m2!1d4.981589!2d52.273035!3e2){:target="_blank"}  
+[From train station to venue by foot](https://www.google.com/maps/dir/Abcoude,+1391+JN+Abcoude/Boutique+Hotel+De+Witte+Dame,+Stationsplein,+Abcoude/@52.2760939,4.9754859,16z/data=!4m14!4m13!1m5!1m1!1s0x47c60c963dffff1d:0xd03b887b870755c8!2m2!1d4.9771355!2d52.2788817!1m5!1m1!1s0x47c60cbf25087fb3:0xcf7673dbed8398e3!2m2!1d4.981589!2d52.273035!3e2){:target="_blank"}  
 
 
 # Gift Idea
