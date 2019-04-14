@@ -49,7 +49,7 @@ Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutiq
 
 Terugweg:
 - Trein van Abcoude naar Amsterdam gaat twee keer per uur (.19 en .49, laatste trein 00:19)
-- Trein van Abcoude naar Utrecht (overstap in Breukelen) gaat twee keer per uur (.10 en .40, laatste trein 0.10) 
+- Trein van Abcoude naar Utrecht (overstap in Breukelen) gaat twee keer per uur (.10 en .40, laatste trein 0:10) 
 - Meer details en actuele reisinformatie: [NS-reisplanner](https://www.ns.nl/reisplanner#/)
 
 # Cadeautip
