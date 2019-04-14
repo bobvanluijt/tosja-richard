@@ -51,7 +51,7 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abco
 
 Way back:
 - Trains from Abcoude to Amsterdam run twice an hour (.19 and .49, last train 00:19)
-- Trains from Abcoude to Utrecht (change at Breukelen station) run twice an hour (.10 and .40, last train 0.10) 
+- Trains from Abcoude to Utrecht (change at Breukelen station) run twice an hour (.10 and .40, last train 0:10) 
 - Find more information at [ns.nl](https://www.ns.nl/en/journeyplanner#/)
 
 # Gift Idea
