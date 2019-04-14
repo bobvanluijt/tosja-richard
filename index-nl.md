@@ -48,9 +48,9 @@ Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutiq
 [Looproute van station naar locatie](https://www.google.com/maps/dir/Abcoude,+1391+JN+Abcoude/Boutique+Hotel+De+Witte+Dame,+Stationsplein,+Abcoude/@52.2760939,4.9754859,16z/data=!4m14!4m13!1m5!1m1!1s0x47c60c963dffff1d:0xd03b887b870755c8!2m2!1d4.9771355!2d52.2788817!1m5!1m1!1s0x47c60cbf25087fb3:0xcf7673dbed8398e3!2m2!1d4.981589!2d52.273035!3e2){:target="_blank"}  
 
 Terugweg:
-Trein van Abcoude naar Amsterdam gaat twee keer per uur (.19 en .49, laatste trein 00:19)
-Trein van Abcoude naar Utrecht (overstap in Breukelen) gaan twee keer per uur (.10 en .40, laatste trein 0.10) 
-Meer details en actuele reisinformatie: [NS-reisplanner](https://www.ns.nl/reisplanner#/)
+- Trein van Abcoude naar Amsterdam gaat twee keer per uur (.19 en .49, laatste trein 00:19)
+- Trein van Abcoude naar Utrecht (overstap in Breukelen) gaat twee keer per uur (.10 en .40, laatste trein 0.10) 
+- Meer details en actuele reisinformatie: [NS-reisplanner](https://www.ns.nl/reisplanner#/)
 
 # Cadeautip
 
