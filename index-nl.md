@@ -43,7 +43,9 @@ Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutiq
 | [Meer informatie over de locatie](https://www.hoteldwd.nl/) |
 | [Video-impressie van de locatie](https://www.youtube.com/watch?v=VY-d1Dv2fbo){:target="_blank"} |
 
-<iframe height="532" width="350" frameborder="0" id="reisplanner-widget" src="//www.ns.nl/nswidget/reisplanner?code=dDpUb3NqYSAmIFJpY2hhcmQncyBXZWRkaW5nLHRzOjAsYnRhcDowLGFzOlN0YXRpb25zcGxlaW4s YXc6QWJjb3VkZSxibjpCb3V0aXF1ZSBIb3RlbCBkZSBXaXR0ZSBEYW1lLGJhOjEsc2g6MyxzYWs6 I2ZmZmZmZixzYXRrOiNmZmM3MzMsc2I6MzUwLHNsazojMDAxNzY2LHNyOjEsc3JrOiNlNWU1ZTUs c3g6MTMsc3hrOiMzODM4Mzgsc3Q6MTUsc3RrOiMwMDE3NjYsejpTVlZMTW5WeU1saG9TVFZRUmtw aFRVRT0NCiw= "></iframe>
+### Bereikbaarheid
+[Route](https://www.hoteldwd.nl/contact/){:target="_blank"}  
+[Looproute van station naar locatie](https://www.google.com/maps/dir/Abcoude,+1391+JN+Abcoude/Boutique+Hotel+De+Witte+Dame,+Stationsplein,+Abcoude/@52.2760939,4.9754859,16z/data=!4m14!4m13!1m5!1m1!1s0x47c60c963dffff1d:0xd03b887b870755c8!2m2!1d4.9771355!2d52.2788817!1m5!1m1!1s0x47c60cbf25087fb3:0xcf7673dbed8398e3!2m2!1d4.981589!2d52.273035!3e2){:target="_blank"}  
 
 # Cadeautip
 
