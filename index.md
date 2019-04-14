@@ -45,10 +45,13 @@ Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abco
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19530.71773399236!2d4.966225277253436!3d52.27353425844868!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcf7673dbed8398e3!2sBoutique+Hotel+De+Witte+Dame!5e0!3m2!1sen!2snl!4v1541432986283" width="100%" height="292" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### How to get there
+### Getting there & away
 [Directions](https://www.hoteldwd.nl/en/contact/){:target="_blank"}  
 [From train station to venue by foot](https://www.google.com/maps/dir/Abcoude,+1391+JN+Abcoude/Boutique+Hotel+De+Witte+Dame,+Stationsplein,+Abcoude/@52.2760939,4.9754859,16z/data=!4m14!4m13!1m5!1m1!1s0x47c60c963dffff1d:0xd03b887b870755c8!2m2!1d4.9771355!2d52.2788817!1m5!1m1!1s0x47c60cbf25087fb3:0xcf7673dbed8398e3!2m2!1d4.981589!2d52.273035!3e2){:target="_blank"}  
 
+Trains from Abcoude to Amsterdam run twice an hour (.19 and .49, last train 00:19)
+Trains from Abcoude to Utrecht (change at Breukelen station) run twice an hour (.10 and .40, last train 0.10) 
+Find more information [here](https://www.ns.nl/en/journeyplanner#/)
 
 # Gift Idea
 
