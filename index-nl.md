@@ -25,6 +25,8 @@ layout: base-NL
 | 12:30 - 17:00 | hotel DWD          | Receptie & lunch    |
 | 17:00 - 00:30 |                    | Diner (besloten)  |
 
+[Parkeerinformatie](https://www.weesp.nl/inwoners/onderwerpen-a-z_42399/product/parkeren_877.html)
+
 # Huwelijksceremonie
 
 De huwelijksceremonie vindt plaats in het bijzijn van familie en naasten in het gemeentehuis van Weesp.
