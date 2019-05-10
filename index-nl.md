@@ -33,7 +33,7 @@ De huwelijksceremonie vindt plaats in het bijzijn van familie en naasten in het 
 
 # Receptie
 
-Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutique Hotel 'De Witte Dame'. Geniet hier samen met het bruidspaar van een walking lunch en het aansnijden van de bruidstaart.  
+Onder de rook van Amsterdam, aan de rand van het pittoreske Abcoude, ligt Boutique Hotel 'De Witte Dame'. Geniet hier samen met het bruidspaar van een walking lunch (buffet) en het aansnijden van de bruidstaart. Het bruidspaar arriveert hier tussen 13u en 14u. 
 
 
 ### Adres
