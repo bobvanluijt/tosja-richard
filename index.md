@@ -33,7 +33,7 @@ The ceremony takes place in the company of family and close friends at the beaut
 
 # Reception
 
-Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). Join the bride and groom here for a walking lunch and the cake cutting ceremony. 
+Within easy reach of Amsterdam, on the outskirts of the picturesque town of Abcoude, lies Boutique Hotel 'De Witte Dame' (The White Lady). Join the bride and groom here for a walking lunch (buffet) and the cake cutting ceremony. The bride & groom will arrive between 13h and 14h.
 
 ### Address
 
